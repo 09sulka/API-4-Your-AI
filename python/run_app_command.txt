@@ -1,0 +1,1 @@
+uvicorn app.main:app --host 127.0.0.1 --port 5001 --ssl-certfile "C:\SelfSSL\MyCert\cert.crt" --ssl-keyfile "C:\SelfSSL\MyCert\cert.key"
