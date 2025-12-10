@@ -217,3 +217,20 @@ Contains embeddings for:
 - `pubmed_article_chunk_vector` → Bielik (1998 dims)
 
 ---
+
+## 👤 Author
+
+**Mariusz Wójcik**  
+LinkedIn: https://www.linkedin.com/in/mariusz-wojcik/
+
+---
+
+## 🙏 Special Thanks
+
+### For inspiration, and introduction to vectors, embeddings, and FastAPI  
+**Michał Kowalczewski**  
+LinkedIn: https://www.linkedin.com/in/micha%C5%82-kowalczewski-470b14b4/
+
+### For review and expert support  
+**Maciej Kępa**  
+LinkedIn: https://www.linkedin.com/in/maciej-kepa/
