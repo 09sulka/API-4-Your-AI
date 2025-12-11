@@ -33,10 +33,10 @@ Local HTTPS AI endpoints, SQL Server 2025 vector pipeline scripts, TLS automatio
   `python/vectorizer/local_vector.py` - async batch embedding generation → SQL inserts.  
 - **TLS automation & docs:**  
   - `powershell/generate_cert.ps1`  
-  - `powershell/generate_cert.md`  
 - **SQL Server AI pipeline:**  
   `sql/SQL AI` - setup, chunking, embedding, ANN search, REST samples.  
 - **Sample data:** `database` (PubMed).  
+- **Postman/Bruno quick tests:** [`wiki/postman-bruno-test.md`](wiki/postman-bruno-test.md) - ready-to-send requests for local FastAPI endpoints.  
 - **Deep documentation:** `wiki` + screenshots in `images`.
 
 ---
